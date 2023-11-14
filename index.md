@@ -3,3 +3,7 @@
 
 Here is a display of Yaktocat:
 ![yaktocat](https://github.com/Doraztl/skills-communicate-using-markdown/assets/150790840/16301818-95dc-4be0-af22-0e6defd57bcc)
+
+``` javascript
+var myVar = "Hello, world!";
+```
